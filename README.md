@@ -54,7 +54,7 @@ todo-app/
 
 ## 📸 Screenshot
 
-
+<img width="1440" height="900" alt="todo" src="https://github.com/user-attachments/assets/da4bf810-cb5d-45a9-a551-ef7953997fa1" />
 
 ---
 
